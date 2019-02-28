@@ -2,3 +2,13 @@
   background-color: #009688;
   color: white;
 }
+
+.split-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
